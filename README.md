@@ -5,3 +5,6 @@
 ![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) 
 ![Styled Components](https://img.shields.io/badge/styled%20components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=dunno)](https://github.com/mvximenko/dunno)
+
