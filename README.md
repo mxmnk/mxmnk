@@ -1,8 +1,7 @@
-## Hi there! <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />
-
-![Favorite Tools:](https://img.shields.io/badge/favorite%20tools:%20-%23000.svg?&style=for-the-badge) 
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black) 
-![Styled Components](https://img.shields.io/badge/styled%20components%20-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=dunno)](https://github.com/mvximenko/dunno)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=social-network)](https://github.com/mvximenko/social-network)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=jojo-cards)](https://github.com/mvximenko/jojo-cards)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=e-commerce)](https://github.com/mvximenko/e-commerce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=flat-ui-colors)](https://github.com/mvximenko/flat-ui-colors)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=youdo)](https://github.com/mvximenko/youdo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=picketer-admin)](https://github.com/mvximenko/picketer-admin)
