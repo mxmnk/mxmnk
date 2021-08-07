@@ -1,7 +1,19 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=dunno)](https://github.com/mvximenko/dunno)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=social-network)](https://github.com/mvximenko/social-network)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=jojo-cards)](https://github.com/mvximenko/jojo-cards)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=e-commerce)](https://github.com/mvximenko/e-commerce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=flat-ui-colors)](https://github.com/mvximenko/flat-ui-colors)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=youdo)](https://github.com/mvximenko/youdo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=picketer-admin)](https://github.com/mvximenko/picketer-admin)
+<a href="https://github.com/mvximenko/dunno">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=dunno" />
+</a>
+<a href="https://github.com/mvximenko/social-network">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=social-network" />
+</a>
+<a href="https://github.com/mvximenko/jojo-cards">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=jojo-cards" />
+</a>
+<a href="https://github.com/mvximenko/e-commerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=e-commerce" />
+</a><a href="https://github.com/mvximenko/flat-ui-colors">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=flat-ui-colors" />
+</a><a href="https://github.com/mvximenko/youdo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=youdo" />
+</a>
+<a href="https://github.com/mvximenko/picketer-admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=picketer-admin" />
+</a>
