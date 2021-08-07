@@ -15,6 +15,3 @@
 </a><a href="https://github.com/mvximenko/youdo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=youdo" />
 </a>
-<a href="https://github.com/mvximenko/picketer-admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=picketer-admin" />
-</a>
