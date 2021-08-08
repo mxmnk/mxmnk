@@ -1,7 +1,7 @@
   ### All my projects
   <table>
     <thead>
-      <tr border: none;>
+      <tr>
         <td><b>Repository</b></td>
         <td><b>⭐ Stars</b></td>
         <td><b>📚 Forks</b></td>
@@ -65,23 +65,6 @@
           </a>
         </td>
       </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/mvximenko/social-network">
-            <b>social-network</b></a>
-        </td>
-        <td>
-          <a href="https://github.com/mvximenko/social-network">
-            <img alt="Stars"
-              src="https://img.shields.io/github/stars/mvximenko/social-network?style=flat-square&labelColor=343b41" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/mvximenko/social-network">
-            <img alt="Forks"
-              src="https://img.shields.io/github/forks/mvximenko/social-network?style=flat-square&labelColor=343b41" />
-          </a>
-        </td>
       </tr>
         <tr>
         <td>
@@ -98,42 +81,6 @@
           <a href="https://github.com/mvximenko/flat-ui-colors">
             <img alt="Forks"
               src="https://img.shields.io/github/forks/mvximenko/flat-ui-colors?style=flat-square&labelColor=343b41" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/mvximenko/picketer-admin">
-            <b>picketer-admin</b></a>
-        </td>
-        <td>
-          <a href="https://github.com/mvximenko/picketer-admin">
-            <img alt="Stars"
-              src="https://img.shields.io/github/stars/mvximenko/picketer-admin?style=flat-square&labelColor=343b41" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/mvximenko/picketer-admin">
-            <img alt="Forks"
-              src="https://img.shields.io/github/forks/mvximenko/picketer-admin?style=flat-square&labelColor=343b41" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/mvximenko/e-commerce">
-            <b>e-commerce</b></a>
-        </td>
-        <td>
-          <a href="https://github.com/mvximenko/e-commerce">
-            <img alt="Stars"
-              src="https://img.shields.io/github/stars/mvximenko/e-commerce?style=flat-square&labelColor=343b41" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/mvximenko/e-commerce">
-            <img alt="Forks"
-              src="https://img.shields.io/github/forks/mvximenko/e-commerce?style=flat-square&labelColor=343b41" />
           </a>
         </td>
       </tr>
