@@ -137,5 +137,24 @@
           </a>
         </td>
       </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/mvximenko/picketer-backend">
+            <b>picketer-backend</b></a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/picketer-backend">
+            <img alt="Stars"
+              src="https://img.shields.io/github/stars/mvximenko/picketer-backend?style=flat-square&labelColor=343b41" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/picketer-backend">
+            <img alt="Forks"
+              src="https://img.shields.io/github/forks/mvximenko/picketer-backend?style=flat-square&labelColor=343b41" />
+          </a>
+        </td>
+      </tr>
     </tbody>
   </table>
+ 
