@@ -10,25 +10,6 @@
     <tbody>
       <tr>
         <td>
-          <a href="https://github.com/mvximenko/dunno">
-            <b>dunno</b>
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/mvximenko/dunno">
-            <img alt="Stars"
-              src="https://img.shields.io/github/stars/mvximenko/dunno?style=flat-square&labelColor=343b41" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/mvximenko/dunno">
-            <img alt="Forks"
-              src="https://img.shields.io/github/forks/mvximenko/dunno?style=flat-square&labelColor=343b41" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
           <a href="https://github.com/mvximenko/jojo-cards">
             <b>jojo-cards</b>
           </a>
@@ -43,6 +24,25 @@
           <a href="https://github.com/mvximenko/jojo-cards">
             <img alt="Forks"
               src="https://img.shields.io/github/forks/mvximenko/jojo-cards?style=flat-square&labelColor=343b41" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/mvximenko/dunno">
+            <b>dunno</b>
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/dunno">
+            <img alt="Stars"
+              src="https://img.shields.io/github/stars/mvximenko/dunno?style=flat-square&labelColor=343b41" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/dunno">
+            <img alt="Forks"
+              src="https://img.shields.io/github/forks/mvximenko/dunno?style=flat-square&labelColor=343b41" />
           </a>
         </td>
       </tr>
@@ -134,24 +134,6 @@
           <a href="https://github.com/mvximenko/dunno">
             <img alt="Forks"
               src="https://img.shields.io/github/forks/mvximenko/flat-ui-colors?style=flat-square&labelColor=343b41" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/mvximenko/picketer-backend">
-            <b>picketer-backend</b></a>
-        </td>
-        <td>
-          <a href="https://github.com/mvximenko/picketer-backend">
-            <img alt="Stars"
-              src="https://img.shields.io/github/stars/mvximenko/picketer-backend?style=flat-square&labelColor=343b41" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/mvximenko/picketer-backend">
-            <img alt="Forks"
-              src="https://img.shields.io/github/forks/mvximenko/picketer-backend?style=flat-square&labelColor=343b41" />
           </a>
         </td>
       </tr>
