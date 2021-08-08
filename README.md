@@ -19,7 +19,7 @@
 <br><br><br>
 <br><br><br>
 
-<h3>Open source projects</h3>
+### Pinned Open source projects
 <table>
   <thead align="center">
     <tr border: none;>
