@@ -84,6 +84,21 @@
           </a>
         </td>
       </tr>
+       <tr>
+        <td>
+          <a href="https://github.com/mvximenko/social-network">
+            <b>social-network</b></a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/social-network">
+            <img alt="Stars"
+              src="https://img.shields.io/github/stars/mvximenko/social-network?style=flat-square&labelColor=343b41" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/social-network">
+            <img alt="Forks"
+              src="https://img.shields.io/github/forks/mvximenko/social-network?style=flat-square&labelColor=343b41" />
     </tbody>
   </table>
  
