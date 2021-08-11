@@ -100,5 +100,4 @@
             <img alt="Forks"
               src="https://img.shields.io/github/forks/mvximenko/social-network?style=flat-square&labelColor=343b41" />
     </tbody>
-  </table>
- 
+  </table> 
