@@ -135,5 +135,5 @@
               src="https://img.shields.io/github/forks/mvximenko/picketer-admin?style=flat-square&labelColor=343b41" />
         </td>
         </tr>
-    </tbody>
+    </tbody> 
   </table> 
