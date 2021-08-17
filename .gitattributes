@@ -2,6 +2,7 @@
 
 *.md linguist-detectable=true
 t.md linguist-detectable=false
-*.md linguist-language=Java
+*.md linguist-language=Markdown
+*.md linguist-documentation=false
 # README.md linguist-detectable=false
 # readme.md linguist-detectable=false
