@@ -1,6 +1,7 @@
 # Linguist overrides
 
 *.md linguist-detectable=true
+*.gitattributes linguist-detectable=true
 *.md linguist-language=Markdown
 *.md linguist-documentation=false
 
