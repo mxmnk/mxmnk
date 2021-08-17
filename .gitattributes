@@ -1,6 +1,7 @@
 # Linguist overrides
 
 *.md linguist-detectable=true
-t.md linguist-detectable=false
+# t.md linguist-detectable=false
+*.md linguist-language=Java
 # README.md linguist-detectable=false
 # readme.md linguist-detectable=false
