@@ -1,6 +1,6 @@
 # Linguist overrides
-*.gitattributes linguist-detectable=true
+
 *.md linguist-detectable=true
 
-# README.md linguist-detectable=false
+README.md linguist-detectable=true
 # readme.md linguist-detectable=false
