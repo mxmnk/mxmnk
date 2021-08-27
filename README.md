@@ -151,7 +151,7 @@
               src="https://img.shields.io/github/forks/mvximenko/picketer-backend?style=flat-square&labelColor=343b41" />
         </td>
         </tr>
-  <!--  <tr>
+        <tr>
         <td>
           <a href="https://github.com/mvximenko/picketer-user">
             <b>picketer-user</b></a>
@@ -167,6 +167,6 @@
             <img alt="Forks"
               src="https://img.shields.io/github/forks/mvximenko/picketer-user?style=flat-square&labelColor=343b41" />
         </td>
-        </tr> -->
+        </tr>
     </tbody> 
   </table> 
