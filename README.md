@@ -1,4 +1,4 @@
-### All my projects
+### My projects
   <table>
     <thead>
       <tr>
