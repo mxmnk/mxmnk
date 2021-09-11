@@ -45,7 +45,7 @@
           </a>
         </td>
       </tr>
-   <!-- <tr>
+      <tr>
         <td>
           <a href="https://github.com/mvximenko/jojo-cards">
             <b>jojo-cards</b>
@@ -63,8 +63,8 @@
               src="https://img.shields.io/github/forks/mvximenko/jojo-cards?style=flat-square&labelColor=343b41" />
           </a>
         </td>
-      </tr> -->
-  <!-- <tr>
+      </tr> 
+      <tr>
         <td>
           <a href="https://github.com/mvximenko/youdo">
             <b>youdo</b>
@@ -82,7 +82,7 @@
               src="https://img.shields.io/github/forks/mvximenko/youdo?style=flat-square&labelColor=343b41" />
           </a>
         </td>
-      </tr> -->
+      </tr>
 <!--    <tr>
         <td>
           <a href="https://github.com/mvximenko/social-network">
