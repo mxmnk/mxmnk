@@ -1,4 +1,3 @@
-
 ### My projects
   <table>
     <thead>
