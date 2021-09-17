@@ -1,4 +1,4 @@
-### My projects
+<!-- ### My projects
   <table>
     <thead>
       <tr>
@@ -167,6 +167,6 @@
             <img alt="Forks"
               src="https://img.shields.io/github/forks/mvximenko/picketer-user?style=flat-square&labelColor=343b41" />
         </td>
-        </tr> -->
+        </tr> --><!--
     </tbody> 
   </table>
