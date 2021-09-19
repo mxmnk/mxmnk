@@ -168,5 +168,39 @@
               src="https://img.shields.io/github/forks/mvximenko/picketer-user?style=flat-square&labelColor=343b41" />
         </td>
         </tr> -->
+       <tr>
+        <td>
+          <a href="https://github.com/mvximenko/awesome-made-by-germans">
+            <b>awesome-made-by-germans</b></a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/awesome-made-by-germans">
+            <img alt="Stars"
+              src="https://img.shields.io/github/stars/mvximenko/awesome-made-by-germans?style=flat-square&labelColor=343b41" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/awesome-made-by-germans">
+            <img alt="Forks"
+              src="https://img.shields.io/github/forks/mvximenko/awesome-made-by-germans?style=flat-square&labelColor=343b41" />
+        </td>
+        </tr> 
+     <tr>
+        <td>
+          <a href="https://github.com/mvximenko/awesome-made-by-japanese">
+            <b>awesome-made-by-japanese</b></a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/awesome-made-by-japanese">
+            <img alt="Stars"
+              src="https://img.shields.io/github/stars/mvximenko/awesome-made-by-japanese?style=flat-square&labelColor=343b41" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/awesome-made-by-japanese">
+            <img alt="Forks"
+              src="https://img.shields.io/github/forks/mvximenko/awesome-made-by-japanese?style=flat-square&labelColor=343b41" />
+        </td>
+       </tr> 
     </tbody> 
   </table>
