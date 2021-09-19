@@ -2,17 +2,10 @@
 
 > Curating the best projects that were made and mainly contributed by German developers
 
-## > 50k ★
+## > 30k ★
 
 - **[Webpack](https://github.com/webpack/webpack)** by [Tobias Koppers](https://github.com/sokra)<br>
   A bundler for javascript and friends. Packs many modules into a few bundled assets.
-
-
-<!-- ## > 40k ★ -->
-
-<!-- ## > 30k ★ -->
-
-<!-- ## > 20k ★ -->
 
 ## > 10k ★
 
