@@ -4,32 +4,30 @@
 
 ## > 30k ★
 
-- **[Fira Code](https://github.com/tonsky/FiraCode)** by [Nikita Prokopov](https://github.com/tonsky)<br>
-  Free monospaced font with programming ligatures.
+- **[Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)** by [Daichi Furiya](https://github.com/wasabeef)<br>
+  A curated list of awesome Android UI/UX libraries.
 
 ## > 10k ★
 
-- **[Autoprefixer](https://github.com/postcss/autoprefixer)** by [Andrey Sitnik](https://github.com/ai)<br>
-  PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
-
+- **[RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators)** by [Daichi Furiya](https://github.com/wasabeef)<br>
+An Android Animation library which easily add itemanimator to RecyclerView items.
+  
 ## > 5k ★
 
-- **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
-  Network-wide ads & trackers blocking DNS server.
+- **[Glide Transformations](https://github.com/wasabeef/glide-transformations)** by [Daichi Furiya](https://github.com/wasabeef)<br>
+An Android transformation library providing a variety of image transformations for Glide.
+
+- **[Blurry](https://github.com/wasabeef/Blurry)** by [Daichi Furiya](https://github.com/wasabeef)<br>
+Blurry is an easy blur library for Android.
+  
+- **[RichEditor](https://github.com/wasabeef/richeditor-android)** by [Daichi Furiya](https://github.com/wasabeef)<br>
+RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.
 
 ## > 1k ★
 
 - **[Skinner](https://github.com/keijiro/Skinner)** by [Keijiro Takahashi](https://github.com/keijiro)<br>
   Special Effects with Skinned Mesh in Unity.
-  
-  
-- **[Authlib](https://github.com/lepture/authlib)** by [Hsiaoming Yang](https://github.com/lepture)<br>
-The ultimate Python library in building OAuth, OpenID Connect clients and servers.
-  
-  
-- **[Skinner](https://github.com/keijiro/Skinner)** by [Hsiaoming Yang](https://github.com/keijiro)<br>
-Special Effects with Skinned Mesh in Unity.
-  
+    
 ## Contributing
 
 It's hard to calculate project popularity so we use stars as a measurement. It's not quite fair, but it is what we have here on Github.
