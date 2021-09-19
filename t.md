@@ -8,24 +8,29 @@
   A bundler for javascript and friends. Packs many modules into a few bundled assets.
 
 
-## > 40k ★
+<!-- ## > 40k ★ -->
 
-## > 30k ★
+<!-- ## > 30k ★ -->
 
-## > 10k ★
+<!-- ## > 20k ★ -->
+
+<!-- ## > 10k ★ -->
+
+- **[fd](https://github.com/sharkdp/fd)** by [David Peter](https://github.com/sharkdp)<br>
+  A simple, fast and user-friendly alternative to 'find'.
 
 - **[PHPUnit](https://github.com/sebastianbergmann/phpunit)** by [Sebastian Bergmann](https://github.com/sebastianbergmann)<br>
   The PHP Unit Testing framework.
-
-
+  
 ## > 5k ★
 
 - **[PHP code coverage](https://github.com/sebastianbergmann/php-code-coverage)** by [Sebastian Bergmann](https://github.com/sebastianbergmann)<br>
   The PHP Unit Testing framework.
-
-
-
+  
 ## > 1k ★
+
+- **[httpsnoop](https://github.com/felixge/httpsnoop)** by [Felix Geisendörfer](https://github.com/felixge)<br>
+  Package httpsnoop provides an easy way to capture http related metrics.
 
   
 ## Contributing
