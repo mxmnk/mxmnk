@@ -28,10 +28,6 @@
 - **[Laravel API Documentation Generator](https://github.com/mpociot/laravel-apidoc-generator)** by [Marcel Pociot](https://github.com/mpociot)<br>
   Laravel API Documentation Generator.
   
-  
-  
-
-  
 ## Contributing
 
 It's hard to calculate project popularity so we use stars as a measurement. It's not quite fair, but it is what we have here on Github.
