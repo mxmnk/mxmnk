@@ -1,4 +1,4 @@
-# 🇯🇵 Awesome Made by Germans [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🇩🇪 Awesome Made by Germans [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curating the best projects that were made and mainly contributed by German developers
 
