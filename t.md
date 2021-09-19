@@ -25,6 +25,12 @@
 - **[httpsnoop](https://github.com/felixge/httpsnoop)** by [Felix Geisendörfer](https://github.com/felixge)<br>
   Package httpsnoop provides an easy way to capture http related metrics.
 
+- **[Laravel API Documentation Generator](https://github.com/mpociot/laravel-apidoc-generator)** by [Marcel Pociot](https://github.com/mpociot)<br>
+  Laravel API Documentation Generator.
+  
+  
+  
+
   
 ## Contributing
 
