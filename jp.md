@@ -37,4 +37,4 @@ If you want to add project to this list, please, make sure that:
 1. The project was created by the developer born in Japan or self-indicate themself as Japanese.
 2. The project has more that 500 stars on Github.
 
-**(Please, check twice that you have picked the correct category and added the project according to alphabetical order.)**
+**Please, check twice that you have picked the correct category and added the project according to alphabetical order.**
