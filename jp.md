@@ -12,15 +12,23 @@
 - **[Autoprefixer](https://github.com/postcss/autoprefixer)** by [Andrey Sitnik](https://github.com/ai)<br>
   PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
 
-## > 3k ★
+## > 5k ★
 
 - **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
   Network-wide ads & trackers blocking DNS server.
 
 ## > 1k ★
 
-- **[AdGuard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension)** by [AdGuard Team](https://github.com/AdguardTeam)<br>
-  Ad blocker with advanced privacy protection features.
+- **[Skinner](https://github.com/keijiro/Skinner)** by [Keijiro Takahashi](https://github.com/keijiro)<br>
+  Special Effects with Skinned Mesh in Unity.
+  
+  
+- **[Authlib](https://github.com/lepture/authlib)** by [Hsiaoming Yang](https://github.com/lepture)<br>
+The ultimate Python library in building OAuth, OpenID Connect clients and servers.
+  
+  
+- **[Skinner](https://github.com/keijiro/Skinner)** by [Hsiaoming Yang](https://github.com/keijiro)<br>
+Special Effects with Skinned Mesh in Unity.
   
 ## Contributing
 
