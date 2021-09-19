@@ -15,9 +15,6 @@ Python sample codes for robotics algorithms.
 - **[RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators)** by [Daichi Furiya](https://github.com/wasabeef)<br>
 An Android Animation library which easily add itemanimator to RecyclerView items.
 
-<!-- - **[Ruby](https://github.com/ruby/ruby)** by Yukihiro Matsumoto<br>
-The Ruby Programming Language. -->
-  
 ## > 5k ★
 
 - **[Blurry](https://github.com/wasabeef/Blurry)** by [Daichi Furiya](https://github.com/wasabeef)<br>
@@ -30,7 +27,7 @@ An Android transformation library providing a variety of image transformations f
 RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.
 
 - **[UniRx](https://github.com/neuecc/UniRx)** by [Yoshifumi Kawai](https://github.com/neuecc)<br>
-Reactive Extensions for Unity
+Reactive Extensions for Unity.
 
 ## > 1k ★
 
@@ -44,7 +41,10 @@ he extremely fast MessagePack serializer for C#.
 A Modern Linker.
 
 - **[Pulse](https://github.com/shu223/Pulsator)** by [Shuichi Tsutsumi](https://github.com/shu223)<br>
-Pulse animation for iOS
+Pulse animation for iOS.
+
+- **[Remote in Japan](https://github.com/remote-jp/remote-in-japan)** by [Yohei Yasukawa](https://github.com/yasulab)<br>
+  Tech companies in Japan that hire remote workers.
 
 - **[Skinner](https://github.com/keijiro/Skinner)** by [Keijiro Takahashi](https://github.com/keijiro)<br>
   Special Effects with Skinned Mesh in Unity.
@@ -56,6 +56,6 @@ It's hard to calculate project popularity so we use stars as a measurement. It's
 If you want to add project to this list, please, make sure that:
 
 1. The project was created by the developer born in Japan or self-indicate themself as Japanese.
-2. The project has more that 500 stars on Github.
+2. The project has more that 1000 stars on Github.
 
 **Please, check twice that you have picked the correct category and added the project according to alphabetical order.**
