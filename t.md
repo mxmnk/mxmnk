@@ -14,7 +14,7 @@
 
 <!-- ## > 20k ★ -->
 
-<!-- ## > 10k ★ -->
+## > 10k ★
 
 - **[fd](https://github.com/sharkdp/fd)** by [David Peter](https://github.com/sharkdp)<br>
   A simple, fast and user-friendly alternative to 'find'.
