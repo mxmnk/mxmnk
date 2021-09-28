@@ -202,5 +202,23 @@
           </a>
         </td>
       </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/mvximenko/epic-library">
+            <b>epic-library</b></a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/epic-library">
+            <img alt="Stars"
+              src="https://img.shields.io/github/stars/mvximenko/epic-library?style=flat-square&labelColor=343b41" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/epic-library">
+            <img alt="Forks"
+              src="https://img.shields.io/github/forks/mvximenko/epic-library?style=flat-square&labelColor=343b41" />
+          </a>
+        </td>
+      </tr>
     </tbody> 
   </table>
