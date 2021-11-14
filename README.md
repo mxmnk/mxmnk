@@ -8,7 +8,7 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
+ <!--  <tr>
         <td>
           <a href="https://github.com/mvximenko/dunno">
             <b>dunno</b>
@@ -26,7 +26,7 @@
               src="https://img.shields.io/github/forks/mvximenko/dunno?style=flat-square&labelColor=343b41" />
           </a>
         </td>
-      </tr>
+      </tr> -->
  <!--   <tr>
         <td>
           <a href="https://github.com/mvximenko/jojo-cards">
