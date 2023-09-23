@@ -49,7 +49,7 @@
       <tr>
         <td>
           <a href="https://github.com/mvximenko/jojo-cards">
-            <b>jojo-cards</b>
+            <b>JoJo Cards</b>
           </a>
         </td>
         <td>
