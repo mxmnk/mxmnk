@@ -12,7 +12,7 @@
      <tr>
         <td>
           <a href="https://github.com/mvximenko/gg">
-            <b>RPG Card</b></a>
+            <b>GG</b></a>
         </td>
         <td>
           <a href="https://github.com/mvximenko/gg">
