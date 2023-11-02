@@ -9,6 +9,24 @@
       </tr>
     </thead>
     <tbody>
+     <tr>
+        <td>
+          <a href="https://github.com/mvximenko/gg">
+            <b>RPG Card</b></a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/gg">
+            <img alt="Stars"
+              src="https://img.shields.io/github/stars/mvximenko/gg?style=flat-square&labelColor=343b41" />
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/mvximenko/rpg-card">
+            <img alt="Forks"
+              src="https://img.shields.io/github/forks/mvximenko/rpg-card?style=flat-square&labelColor=343b41" />
+          </a>
+        </td>
+       </tr>
        <tr>
         <td>
           <a href="https://github.com/mvximenko/rpg-card">
