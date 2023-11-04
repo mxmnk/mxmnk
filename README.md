@@ -1,7 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mvximenko&repo=gg)](https://github.com/mvximenko/gg)
- 
-
-
 ### My projects
   <table>
     <thead>
