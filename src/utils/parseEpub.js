@@ -105,7 +105,7 @@ export const parseEpub = async (file) => {
     .querySelector('rootfile')
     ?.getAttribute('full-path');
 
-  if (opfPath == null) {
+  if (!opfPath) {
     return;
   }
 
@@ -126,7 +126,7 @@ export const parseEpub = async (file) => {
       ?.querySelector(`item[id="${item}"]`)
       ?.getAttribute('href');
 
-    if (path == null) {
+    if (!path) {
       return;
     }
 

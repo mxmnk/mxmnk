@@ -7,9 +7,17 @@ const App = () => {
 
   const handleChange = async (e) => {
     const file = e.target.files.item(0);
-    const parsed = await parseEpub(file);
-    const result = getWordFrequency(parsed);
-    setState([...result].sort((a, b) => b[1] - a[1]));
+    if (file) {
+      let result = [];
+
+      if (file.type === 'application/epub+zip') {
+        result = getWordFrequency(await parseEpub(file));
+      } else if (file.type === 'text/plain' || file.name.endsWith('.srt')) {
+        result = getWordFrequency(await file.text());
+      }
+
+      setState([...result].sort((a, b) => b[1] - a[1]));
+    }
   };
 
   return (
