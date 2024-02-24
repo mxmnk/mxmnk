@@ -12,7 +12,10 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "unzipit": "^1.4.3"
+    "unzipit": "^1.4.3",
+    "wink-eng-lite-web-model": "^1.5.2",
+    "wink-lemmatizer": "^3.0.4",
+    "wink-nlp": "^1.14.3"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
